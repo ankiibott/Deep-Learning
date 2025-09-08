@@ -51,4 +51,4 @@ This repository covers everything from **basic neural networks to advanced archi
 ### 1️⃣ Clone the Repository
 ```bash
 git clone https://github.com/ankiibott/Deep-Learning.git
-cd <repo-name>
+cd Deep-Learning
