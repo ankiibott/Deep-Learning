@@ -1,4 +1,4 @@
-# 🧠 Deep Learning Playground
+# 🧠 Deep Learning
 
 A collection of **Deep Learning experiments, notebooks, and mini-projects** built using **TensorFlow & Keras**.  
 This repository covers everything from **basic neural networks to advanced architectures** like CNNs, embeddings, and pipelines.  
